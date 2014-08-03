@@ -1,5 +1,5 @@
 =begin
-Copyright (c) 2014 Payaam Emami
+Copyright (c) 2014 Payaam Emami & Asim Shakour
 
 This file is part of ip_format_validator.
 
