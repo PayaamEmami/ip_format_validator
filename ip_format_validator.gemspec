@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = IpFormatValidator::VERSION
   spec.authors       = ["Payaam Emami", "Asim Shakour"]
   spec.email         = ["payaamemami@gmail.com", "shakourasim@gmail.com"]
-  spec.summary       = %q{This gem checks the format of an IP address}
-  spec.description   = %q{The two requirements for the format of the IP address: Must either be IPv4 or IPv6 format and Must be a public IP address.}
+  spec.summary       = %q{This gem checks the format of an IP address.}
+  spec.description   = %q{Rails custom validator that checks format for an IP address. The two requirements for the format of the IP address: Must either be IPv4 or IPv6 format and Must be a public IP address.}
   spec.homepage      = ""
   spec.license       = "GNU GPLv3"
 
